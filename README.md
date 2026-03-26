@@ -1,4 +1,4 @@
-# 📑 INTERACTIVE REFLECTION WORKBOOK: OPTICAL SYSTEMS
+# 🔬 OOE VIRTUAL LABORATORY: OPTICAL & EM SYSTEMS
 **Institution:** National Higher School of Advanced Technologies (ENSTA)  
 **Module:** Physics / Computer Vision  
 **Academic Year:** 2025–2026  
@@ -6,30 +6,49 @@
 
 ---
 
-## I. PHYSICS OF REFRACTION AND APPLICATIONS
-* **Q1. The Swimming Pool Phenomenon:** Explain why an object submerged at a depth of 4m appears to be closer to the surface (apparent depth).
-* **Q2. Guidance Error:** Risk assessment for a robotic arm without refraction correction ($n = 1.33$).
-* **Q3. Fiber Optics:** Role of the critical angle in data transmission.
-
-## II. EYE MODELING AND CORRECTION
-* **Q4. The Relaxed Eye:** Optical power calculation (66.67 Diopters / 15mm).
-* **Q5. Accommodation Effort:** Impact of crystalline lens bulging on focal length at 25cm.
-* **Q6. The Case of Myopia:** Physical solution using diverging lenses.
-
-## III. PROJECTION AND SURVEILLANCE SYSTEMS
-* **Q7. Video Projector:** Image orientation and transparency placement.
-* **Q8. The Peephole (Judas):** Wide-angle visualization using -10D lenses.
-* **Q9. Total Reflection:** Geometric properties of perpendicular mirror grids.
+## 👥 TEAM IDENTIFICATION
+*To be completed by the Project Leader:*
+- **Project Leader:** [Name Here]
+- **Group:** [Number]
+- **Team Members:**
+  1. [Name 1]
+  2. [Name 2]
+  3. [Name 3]
 
 ---
 
-## 🚀 SUBMISSION RULES (FOR STUDENTS)
+## 📂 PROJECT THEMES
 
-⚠️ **Strict Policy:** Only the **Project Leader (Chef de Projet)** is authorized to manage the GitHub repository and submit the final work.
+### Theme 1: Physics of Refraction & Engineering Applications
+* Geometric modeling of refraction (Snell-Descartes laws).
+* Apparent depth phenomena and underwater robotic guidance.
+* Fiber optics: Critical angles and total internal reflection for data transmission.
 
-1.  **Fork:** The Project Leader must fork this repository.
-2.  **Collaboration:** Team members contribute via the Leader's repository.
-3.  **Documentation:** All answers must be written in the `README.md`.
-4.  **Code:** Simulations (JS/HTML) must be pushed by the Leader only.
+### Theme 2: Biophysics of Vision & Optical Correction
+* Modeling the human eye as an optical system (Relaxed vs. Accommodated).
+* Physiological causes of Myopia and corrective lens simulations.
+* Dynamic focal length adjustment and optical power (Diopters).
 
+### Theme 3: Advanced Projection & Surveillance Systems
+* Ray tracing for video projectors and image inversion.
+* Wide-angle visualization through door peepholes (Negative power lenses).
+* Geometry of perpendicular mirror grids and total reflection.
+
+### Theme 4: EM Waves, Interference & Diffraction
+* Wave propagation and Electromagnetic spectrum analysis.
+* Modeling Young’s double-slit interference patterns.
+* Diffraction through apertures and its impact on image resolution in Computer Vision.
+
+---
+
+## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
+
+⚠️ **Strict Policy:** Only the **Project Leader (Chef de Projet)** is authorized to manage the GitHub repository and push code.
+
+1. **Fork & Setup:** The Project Leader must fork this repository and fill in the "Team Identification" section above.
+2. **Collaboration:** Other members contribute to the code, but the Leader is the only one pushing to the main branch.
+3. **Simulation:** Each theme must be accompanied by a functional visual simulation (HTML/JavaScript).
+4. **Final Link:** Submit the final repository URL once all 4 themes are completed.
+
+---
 **Good Luck!**
