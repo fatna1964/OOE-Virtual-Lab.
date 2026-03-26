@@ -52,6 +52,14 @@
 3. **Upload:** Push your HTML/JS simulations and technical documentation to your fork.
 4. **GitHub Pages:** Activate "GitHub Pages" in your settings to make your simulation live.
 5. **Final Link:** Share your repository URL with Dr. Cheggou for final archiving.
+6. ---
+
+## 🔗 LIVE DEMO
+> **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, replace the URL below with your actual live link.
+
+[🚀 Click here to view the Interactive Simulation](https://your-username.github.io/your-repo-name/)
+
+---
 
 ---
 **Thank you for your professional contribution!**
