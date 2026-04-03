@@ -38,7 +38,8 @@
 #### **Ray Tracing (Video Projection & Inversion)**
 * **Focal Length:** $f' = \frac{1}{P}$
 * **Lens Power (Diopters):** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
-
+## 🔗 STIMULATION LINK
+[![Simulation](https://img.shields.io/badge/Simulation-PhET%20Interactive-blue?style=for-the-badge&logo=phet&logoColor=white)](https://phet.colorado.edu/en/simulations/geometric-optics-basics)
 ---
 
 ### 🟦 Theme 3: EM Waves, Interference & Diffraction
