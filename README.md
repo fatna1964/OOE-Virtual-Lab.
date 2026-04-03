@@ -28,12 +28,12 @@
 ### Theme 1: Physics of Refraction & Engineering Applications
 * Apparent depth phenomena and underwater robotic guidance.
 ## Fata Morgana (Gradient Index Optics)
-Snell-Descartes Law:** $$n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$$
-$$ n(y) = n_0 - k y $$
-### Theme 2: Advanced Projection & Surveillance Systems
+Snell-Descartes Law: $n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$
+ mirage law :$n(y) = n_0 - ky$
+ ###Theme 2: Advanced Projection & Surveillance Systems
 * Ray tracing for video projectors and image inversion.
-Focal length: $$ f' = \frac{1}{P} $$
- **Lens Power (Diopters):** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
+ Focal length: $f' = \frac{1}{P}$ 
+ Lens Power (Diopters): $V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}${\overline{OA}}$$
 
 ### Theme 3: EM Waves, Interference & Diffraction
 * Wave propagation and Electromagnetic spectrum.
