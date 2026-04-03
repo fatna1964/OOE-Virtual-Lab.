@@ -46,8 +46,7 @@
 ### 🟦 Theme 3: EM Waves, Interference & Diffraction
 * Wave Propagation (Electromagnetic Spectrum)
 #### **The Atomic Whisper (Nano-Phononics)**
-* **Wave Equation:** $$\Delta d = v \cdot \Delta t$$
-* 
+* **Wave Equation:** $$\Delta d = v \cdot \Delta t$$ 
 ## 🔗 STIMULATION LINK
 [![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://fatna1964.github.io/game/)
 ---
