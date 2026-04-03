@@ -12,34 +12,27 @@
 
 ## 👥 TEAM IDENTIFICATION
 *To be completed by the Project Leader:*
-- **Project Leader:** [Full Name]
-- **Group Number:** [e.g., G1, G2...]
+- **Project Leader:** [GABANI Fatna gallil]
+- **Group Number:** [G3]
 - **Team Members:**
-  1. [Name 1]
-  2. [Name 2]
-  3. [Name 3]
+  1. [AIT HOCINE Milissa]
+  2. [AZIL Selsabile]
+  3. [BOUDRIES Ikram]
+  4. [LOUNNACI Yasmine]
+  5. [SEGHIER Hadjer]
+  
 
----
 
 ## 📂 PROJECT THEMES
 
 ### Theme 1: Physics of Refraction & Engineering Applications
-* Geometric modeling of refraction (Snell-Descartes laws).
 * Apparent depth phenomena and underwater robotic guidance.
-* Fiber optics: Critical angles and total internal reflection.
 
-### Theme 2: Biophysics of Vision & Optical Correction
-* Modeling the human eye (Relaxed vs. Accommodated).
-* Physiological causes of Myopia and corrective lens simulations.
-
-### Theme 3: Advanced Projection & Surveillance Systems
+### Theme 2: Advanced Projection & Surveillance Systems
 * Ray tracing for video projectors and image inversion.
-* Wide-angle visualization through door peepholes (-10D lenses).
 
-### Theme 4: EM Waves, Interference & Diffraction
+### Theme 3: EM Waves, Interference & Diffraction
 * Wave propagation and Electromagnetic spectrum.
-* Modeling Young’s double-slit interference patterns.
-* Diffraction impact on resolution in Computer Vision.
 
 ---
 
