@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/OOE-Virtual-Lab/WORKSHOP3/VOICEdetective/vite-project/dist/' 
+  base: './' // هذا السطر يحل مشكلة الـ 404 لأنه يجعل المسارات نسبية
 })
