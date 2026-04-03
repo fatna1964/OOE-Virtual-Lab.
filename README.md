@@ -39,7 +39,7 @@
 
 #### **The Microfilm (Converging Lenses)**
 * **Focal Length:** $f' = \frac{1}{P}$
-* **Lens Power (Diopters):** $$\text{V} = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
+* **Lens Power:** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
 
 ## 🔗 SIMULATION LINK
 [![Simulation](https://img.shields.io/badge/Simulation-PhET%20Interactive-blue?style=for-the-badge)](https://phet.colorado.edu/en/simulations/geometric-optics-basics)
@@ -50,7 +50,7 @@
 * Wave Propagation (Electromagnetic Spectrum)
 
 #### **The Atomic Whisper (Nano-Phononics)**
-* **Wave Equation:** $$\Delta d = v \cdot \Delta t$$ 
+* **Wave Equation:** $$\Delta d = v \cdot \Delta t$$
 
 ## 🔗 LIVE DEMO LINK
 [![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=github)](https://fatna1964.github.io/game/)
