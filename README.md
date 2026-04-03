@@ -35,7 +35,8 @@
 ---
 
 ### 🟦 Theme 2: Advanced Projection & Surveillance Systems
-#### **Ray Tracing (Video Projection & Inversion)**
+* Ray Tracing (Video Projection & Inversion)
+  #### **The Microfilm (Converging Lenses)**
 * **Focal Length:** $f' = \frac{1}{P}$
 * **Lens Power (Diopters):** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
 ## 🔗 STIMULATION LINK
@@ -43,9 +44,10 @@
 ---
 
 ### 🟦 Theme 3: EM Waves, Interference & Diffraction
-#### **Wave Propagation (Electromagnetic Spectrum)**
-* **Wave Equation:** $v = f \lambda$
-* **Energy of Photon:** $E = h \nu = \frac{hc}{\lambda}$
+* Wave Propagation (Electromagnetic Spectrum)
+#### **The Atomic Whisper (Nano-Phononics)**
+* **Wave Equation:** $$\Delta d = v \cdot \Delta t$$
+* 
 ## 🔗 STIMULATION LINK
 [![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://fatna1964.github.io/game/)
 ---
