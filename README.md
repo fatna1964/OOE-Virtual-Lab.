@@ -35,14 +35,16 @@
 ---
 
 ### 🟦 Theme 2: Advanced Projection & Surveillance Systems
-* Ray tracing for video projectors and image inversion.
-* **Focal length:** $f' = \frac{1}{P}$
+#### **Ray Tracing (Video Projection & Inversion)**
+* **Focal Length:** $f' = \frac{1}{P}$
 * **Lens Power (Diopters):** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
 
 ---
 
 ### 🟦 Theme 3: EM Waves, Interference & Diffraction
-* Wave propagation and Electromagnetic spectrum.
+#### **Wave Propagation (Electromagnetic Spectrum)**
+* **Wave Equation:** $v = f \lambda$
+* **Energy of Photon:** $E = h \nu = \frac{hc}{\lambda}$
 ---
 
 ## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
