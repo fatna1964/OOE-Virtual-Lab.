@@ -12,16 +12,16 @@
 
 ## 👥 TEAM IDENTIFICATION
 *To be completed by the Project Leader:*
-- **Project Leader:** GABANI Fatna gallil
-- **Group Number:** G3
+- **Project Leader:** [GABANI Fatna gallil]
+- **Group Number:** [G3]
 - **Team Members:**
-  1. AIT HOCINE Milissa
-  2. AZIL Selsabile
-  3. BOUDRIES Ikram
-  4. LOUNNACI Yasmine
-  5. SEGHIER Hadjer
+  1. [AIT HOCINE Milissa]
+  2. [AZIL Selsabile]
+  3. [BOUDRIES Ikram]
+  4. [LOUNNACI Yasmine]
+  5. [SEGHIER Hadjer]
+  
 
----
 
 ## 📂 PROJECT THEMES
 
@@ -36,25 +36,18 @@
 
 ### 🟦 Theme 2: Advanced Projection & Surveillance Systems
 * Ray Tracing (Video Projection & Inversion)
-
-#### **The Microfilm (Converging Lenses)**
+  #### **The Microfilm (Converging Lenses)**
 * **Focal Length:** $f' = \frac{1}{P}$
-* **Lens Power (Diopters):** $$\text{V} = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
-
-## 🔗 SIMULATION LINK
+* **Lens Power (Diopters):** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
+## 🔗 STIMULATION LINK
 [![Simulation](https://img.shields.io/badge/Simulation-PhET%20Interactive-blue?style=for-the-badge)](https://phet.colorado.edu/en/simulations/geometric-optics-basics)
-
----
 
 ### 🟦 Theme 3: EM Waves, Interference & Diffraction
 * Wave Propagation (Electromagnetic Spectrum)
-
 #### **The Atomic Whisper (Nano-Phononics)**
 * **Wave Equation:** $$\Delta d = v \cdot \Delta t$$ 
-
-## 🔗 LIVE DEMO LINK
-[![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=github)](https://fatna1964.github.io/game/)
-
+## 🔗 STIMULATION LINK
+[![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://fatna1964.github.io/game/)
 ---
 
 ## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
@@ -66,13 +59,16 @@
 3. **Upload:** Push your HTML/JS simulations and technical documentation to your fork.
 4. **GitHub Pages:** Activate "GitHub Pages" in your settings to make your simulation live.
 5. **Final Link:** Share your repository URL with Dr. Cheggou for final archiving.
-
----
+6. ---
 
 ## 🔗 LIVE DEMO
-> **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, use the live link below.
+> **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, replace the URL below with your actual live link.
 
-[🚀 Click here to view the Interactive Simulation](https://fatna1964.github.io/game/)
+[🚀 Click here to view the Interactive Simulation](https://your-username.github.io/your-repo-name/)
+
+---
 
 ---
 **Thank you for your professional contribution!**
+
+
