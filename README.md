@@ -45,6 +45,8 @@
 #### **Wave Propagation (Electromagnetic Spectrum)**
 * **Wave Equation:** $v = f \lambda$
 * **Energy of Photon:** $E = h \nu = \frac{hc}{\lambda}$
+## 🔗 STIMULATION LINK
+[![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel)](https://fatna1964.github.io/game/)
 ---
 
 ## 🚀 SUBMISSION INSTRUCTIONS (FOR PROJECT LEADERS)
