@@ -30,10 +30,7 @@
 
 #### **Fata Morgana (Gradient Index Optics)**
 
-
-
 * **Snell-Descartes Law:** $n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$
-
 
 * **Mirage Law:** $n(y) = n_0 - ky$
 
@@ -43,13 +40,10 @@
 * Ray Tracing (Video Projection & Inversion)
 
 #### **The Microfilm (Converging Lenses)**
+
 * **Focal Length:** $f' = \frac{1}{P}$
 
-
-
 * **Lens Power:** $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
-
-
 
 ## 🔗 SIMULATION LINK
 [![Simulation](https://img.shields.io/badge/Simulation-PhET%20Interactive-blue?style=for-the-badge)](https://phet.colorado.edu/en/simulations/geometric-optics-basics)
@@ -61,11 +55,7 @@
 
 #### **The Atomic Whisper (Nano-Phononics)**
 
-
-
 * **Wave Equation:** $$\Delta d = v \cdot \Delta t$$
-
-
 
 ## 🔗 LIVE DEMO LINK
 [![Demo](https://img.shields.io/badge/Check%20it%20out-Live%20Demo-brightgreen?style=for-the-badge&logo=github)](https://fatna1964.github.io/game/)
@@ -87,7 +77,7 @@
 ## 🔗 LIVE DEMO
 > **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, use the live link below.
 
-[🚀 Click here to view the Interactive Simulation](https://fatna1964.github.io/OOE-Virtual-Lab./)
+[🚀 Click here to view the Interactive Simulation](https://fatna1964.github.io/OOE-Virtual-Lab/)
 
 ---
 **Thank you for your professional contribution!**
