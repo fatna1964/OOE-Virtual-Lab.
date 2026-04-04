@@ -77,7 +77,7 @@
 ## 🔗 LIVE DEMO
 > **Instruction for Project Leaders:** Once you have activated **GitHub Pages** in your settings, use the live link below.
 
-[🚀 Click here to view the Interactive Simulation](https://fatna1964.github.io/OOE-Virtual-Lab/)
+[🚀 Click here to view the Interactive Simulation](https://fatna1964.github.io/OOE-Virtual-Lab./)
 
 ---
 **Thank you for your professional contribution!**
