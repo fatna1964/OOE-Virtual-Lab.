@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OOE Virtual Lab</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js" 
+            onload="renderMathInElement(document.body, {
+                delimiters: [
+                    {left: '$$', right: '$$', display: true},
+                    {left: '$', right: '$', display: false}
+                ]
+            });"></script>
+
+    <style>
+        body { font-family: sans-serif; padding: 40px; line-height: 1.6; background-color: #f4f7f6; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; }
+        .equation-box { background: #eef2f3; padding: 15px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #3498db; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>🔬 OOE Virtual Laboratory</h1>
+        <p>مرحباً بك في المختبر الافتراضي. إليك المعادلات الرياضية للمشروع:</p>
+
+        <div class="equation-box">
+            <strong>1. Lens Power (قدرة العدسة):</strong>
+            $$V = \frac{1}{f'} = \frac{1}{\overline{OA'}} - \frac{1}{\overline{OA}}$$
+        </div>
+
+        <div class="equation-box">
+            <strong>2. Wave Equation (معادلة الموجة):</strong>
+            $$\Delta d = v \cdot \Delta t$$
+        </div>
+
+        <div class="equation-box">
+            <strong>3. Snell-Descartes Law:</strong>
+            $n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$
+        </div>
+    </div>
+
+</body>
+</html>
